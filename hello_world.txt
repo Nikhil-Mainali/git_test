@@ -1,1 +1,2 @@
 Hello this is my first time using git btw i am learning from The Odin Project. Really grateful to all the contributors for this amazing course.
+Try to commit for practice and add more informed message 
